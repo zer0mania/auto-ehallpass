@@ -15,7 +15,7 @@ document.write('<h1>auto-ehallpass JS version loaded</h1>');
 document.write('<h2 id="textArea">Press E to activate the script</h2>');
 document.write('<div>')
 document.write('<iframe height="600" width="800" id="InnerIframe" src="https://www.e-hallpass.com/createpass"></iframe>');
-document.write('<img height="256" width="512" src="https://rivercity.wusd.k12.ca.us/pictures/Our-School/Maps-Parking-and-Permits/rchs_new_campus_labels.jpg" alt="Aerial view campus map with building labels" guid="4ef575c8-bac9-4bc9-8082-fddaded11bbf">');
+document.write('<img height="400" width="600" src="https://rivercity.wusd.k12.ca.us/pictures/Our-School/Maps-Parking-and-Permits/rchs_new_campus_labels.jpg" alt="Aerial view campus map with building labels" guid="4ef575c8-bac9-4bc9-8082-fddaded11bbf">');
 document.write('</div>')
 document.write('<p>made by <a href="https://github.com/zer0mania">zer0mania#4652</a></p>');
 document.write('</body>');
